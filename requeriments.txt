@@ -1,0 +1,8 @@
+pip install python3
+pip install pytest  
+pip install iniconfig
+pip install colorama     pytest
+pip install packaging
+pip install pip
+pip install pluggy
+pip install pytest
