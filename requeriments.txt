@@ -1,4 +1,4 @@
 requests==2.26.0
 flask==2.0.1
-numpy==1.21.2
+numpy>=1.21
 pytest==8.3.3
